@@ -4,4 +4,6 @@ __pycache__/
 .idea/
 .env
 logs/
-data/
+data/*
+!data/landing_raw/
+!data/landing_raw/.gitkeep
