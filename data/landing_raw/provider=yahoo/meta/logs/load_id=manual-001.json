@@ -1,0 +1,11 @@
+{
+  "load_id": "manual-001",
+  "run_date": "2025-08-19",
+  "timeframes": ["1d"],
+  "symbols": ["PETR4.SA", "^BVSP"],
+  "status": "pending",
+  "start_utc": "2025-08-19T23:15:00Z",
+  "end_utc": null,
+  "notes": "ensaio manual antes da coleta real",
+  "items": []
+}

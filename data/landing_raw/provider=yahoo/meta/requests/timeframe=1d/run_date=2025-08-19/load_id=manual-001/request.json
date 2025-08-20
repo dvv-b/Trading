@@ -1,0 +1,9 @@
+{
+  "symbols": ["PETR4.SA", "^BVSP"],
+  "timeframe": "1d",
+  "period": "30d",
+  "interval": "1d",
+  "local_tz": "America/Sao_Paulo",
+  "target_partition": "date=BRT",
+  "notes": "ensaio manual do pedido de coleta diária"
+}

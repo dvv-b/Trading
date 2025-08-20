@@ -1,0 +1,8 @@
+date,is_trading_day
+2025-08-18,true
+2025-08-19,true
+2025-08-20,true
+2025-08-21,true
+2025-08-22,true
+2025-08-23,false
+2025-08-24,false
