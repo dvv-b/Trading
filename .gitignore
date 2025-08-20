@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 .idea/
 .env
+*.env
 logs/
-data/*
+data/**
+!data/**/.gitkeep
 !data/landing_raw/
 !data/landing_raw/.gitkeep
 !data/landing_raw/**/.gitkeep
